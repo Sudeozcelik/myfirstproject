@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(162, 192, 192);
+    padding: 0% auto;
+    margin: 0 auto;
+
+}
+
+#container{ 
+    background-color:rgb(168, 164, 164);
+    margin:0 auto;
+    width: 100%;
+}
+
+header{
+    background-color: yellow;
+}
+nav{
+    background-color: green;
+    height: 50px;
+}
+#content{
+    background-color: red;
+    height: 260px;
+}
+#left{
+    background-color: gainsboro;
+    width: 30%;
+    float: left;
+    height: 250px;
+    padding: 10px;
+    margin: 0px;
+    border: 2px black dashed;
+}
+
+#middle{
+    background-color: lightpink;
+    width: 30%;
+    float: left;
+    height: 250px;
+    padding: 10px;
+    margin: 0px 0;
+}
+
+#right{
+    background-color: lightskyblue;
+    width: 30%;
+    float: left;
+    height: 250px;
+    padding: 10px;
+    margin: 0px;
+}
+
+footer{
+    background-color: black;
+    color: white ;
+    clear: both ;
+    height: 200px;
+    padding-left: 20px;
+}
+
